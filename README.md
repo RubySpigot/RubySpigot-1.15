@@ -1,0 +1,1 @@
+To download the main jar go to this link: https://www.file-upload.net/download-14128459/RubySpigot_version0.2.jar.html
